@@ -1,0 +1,209 @@
+Which programming language is used to build Android applications?
+Java
+Python
+C++
+Ruby
+Java
+
+What does HTML stand for?
+Hyper Text Markup Language
+High Tech Markup Language
+Hyperlink and Text Markup Language
+Home Tool Markup Language
+Hyper Text Markup Language
+
+Which keyword is used in Python to define a function?
+func
+method
+def
+define
+def
+
+What is the file extension for a C++ source code file?
+.cpp
+.py
+.txt
+.java
+.cpp
+
+In JavaScript, how do you declare a variable?
+var
+let
+const
+All of the above
+All of the above
+
+What does CSS stand for?
+Cascading Style Sheet
+Creative Style System
+Computer Style Sheet
+Complex Styling Syntax
+Cascading Style Sheet
+
+In Python, what is the syntax to import a module?
+import module_name
+include module_name
+require module_name
+load module_name
+import module_name
+
+Which operator is used for concatenation in many programming languages?
++
+-
+*
+/
++
+
+What does the acronym API stand for?
+Application Programming Interface
+Application Protocol Interface
+Advanced Programming Interface
+Automated Program Integration
+Application Programming Interface
+
+What does the acronym IDE stand for?
+Integrated Development Environment
+Interactive Design Environment
+Integrated Design Environment
+Interactive Development Environment
+Integrated Development Environment
+
+Which of the following is an example of a dynamically-typed programming language?
+C++
+Java
+Python
+Swift
+Python
+
+What is the purpose of a constructor in object-oriented programming?
+To initialize an object's instance variables
+To define private methods
+To create static variables
+To handle exceptions
+To initialize an object's instance variables
+
+Which programming language is often used for game development?
+Python
+C#
+Perl
+COBOL
+C#
+
+What is the file extension for a Java source code file?
+.java
+.cpp
+.py
+.js
+.java
+
+Which of the following is a version control system commonly used for open-source projects?
+Git
+Subversion (SVN)
+Mercurial
+Perforce
+Git
+
+In Python, how do you check the length of a list?
+length(list_name)
+list_name.length()
+len(list_name)
+list_name.len()
+len(list_name)
+
+Which of the following is a popular JavaScript framework for building user interfaces?
+React.js
+Django
+Angular
+Flask
+React.js
+
+What is the purpose of the "break" keyword in a loop?
+To skip the current iteration and move to the next iteration
+To terminate the loop and exit its execution
+To continue to the next iteration without executing the remaining code
+To reset the loop counter to its initial value
+To terminate the loop and exit its execution
+
+In Python, how do you convert a string to lowercase?
+str.lower()
+str.upper()
+str.capitalize()
+str.casefold()
+str.lower()
+
+Which keyword is used to declare a constant variable in JavaScript?
+var
+const
+let
+final
+const
+
+In object-oriented programming, what is the process of creating a new class based on an existing class called?
+Abstraction
+Inheritance
+Polymorphism
+Encapsulation
+Inheritance
+
+What is the output of "System.out.println("Hello".charAt(2));" in Java
+e
+l
+o
+IndexOutOfBoundsException
+o
+
+Which data structure uses First-In-First-Out (FIFO) ordering?
+Stack
+Queue
+Tree
+Graph
+Queue
+
+Which programming language is often used for building web applications with server-side functionality?
+HTML
+CSS
+JavaScript
+PHP
+PHP
+
+What is the purpose of the "continue" keyword in a loop?
+To skip the current iteration and move to the next iteration
+To terminate the loop and exit its execution
+To restart the loop from the beginning
+To return a value from the loop
+To skip the current iteration and move to the next iteration
+
+Which of the following is an example of a statically-typed programming language?
+Python
+JavaScript
+Ruby
+Java
+Java
+
+What does the acronym JSON stand for?
+JavaScript Object Notation
+Java Standard Object Notation
+JavaScript Oriented Notation
+Java Simple Object Naming
+JavaScript Object Notation
+
+In Python, how do you check if a value exists in a list?
+list.contains(value)
+value in list
+list.index(value)
+list.check(value)
+value in list
+
+What is the output of "console.log(10 === "10");" in JavaScript?
+true
+false
+TypeError
+SyntaxError
+false
+
+What is the purpose of a semicolon (;) in programming languages like JavaScript and C++?
+To indicate the end of a statement
+To separate function arguments
+To declare a variable
+To define a loop
+To indicate the end of a statement

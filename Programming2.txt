@@ -1,0 +1,89 @@
+In object-oriented programming, a class is a blueprint for creating objects
+True
+
+JavaScript is a statically typed programming language
+False
+
+HTML is a programming language
+False
+
+Python is an interpreted language
+True
+
+C++ supports multiple inheritance
+True
+
+The "==" operator in Python checks both value and type equality
+False
+
+Java is platform-independent
+True
+
+SQL is used for programming web applications
+False
+
+CSS stands for Cascading Script Style
+False
+
+Ruby is an object-oriented programming language
+True
+
+PHP is mainly used for client-side scripting
+False
+
+Git is a distributed version control system
+True
+
+The "printf" function in C++ is used for printing output
+False
+
+A function can only have one return statement in most programming languages
+True
+
+Java uses a garbage collector for automatic memory management
+True
+
+JSON stands for JavaScript Object Notation
+True
+
+A compiler translates source code into machine code
+True
+
+JavaScript can be used for both front-end and back-end development
+True
+
+The "for" loop in Python is only used for iterating over lists
+False
+
+HTML tags are case-sensitive
+False
+
+CSS is used for adding interactivity to a web page
+False
+
+The main function is required in all C++ programs
+True
+
+PHP is a server-side scripting language
+True
+
+JavaScript is a compiled language
+False
+
+Python uses braces ({}) to indicate blocks of code
+False
+
+A boolean variable can only store the values true or false
+True
+
+HTML5 introduced the <canvas> element for drawing graphics
+True
+
+Java is an example of a statically typed programming language
+True
+
+PHP files have the extension ".php"
+True
+
+Python supports both procedural and object-oriented programming paradigms
+True

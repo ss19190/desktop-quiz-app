@@ -1,0 +1,89 @@
+Beethoven composed nine symphonies. 
+True
+
+Mozart was born in the 18th century. 
+True
+
+The guitar has six strings. 
+True
+
+The Beatles formed in the 1970s. 
+False
+
+The piano is a percussion instrument. 
+True
+
+Madonna's real name is Madonna Louise Ciccone. 
+True
+
+The saxophone was invented by Adolphe Sax. 
+True
+
+Elvis Presley was known as "The King of Rock and Roll." 
+True
+
+The Beatles' final studio album was "Let It Be." 
+True
+
+Jazz originated in the United States. 
+True
+
+The violin has four strings. 
+True
+
+"Thriller" is the best-selling album of all time. 
+True
+
+The Beatles released a total of 13 studio albums. 
+False
+
+Michael Jackson's signature dance move was the Moonwalk. 
+True
+
+The clarinet belongs to the brass instrument family. 
+False
+
+Bob Marley was a reggae musician from Jamaica. 
+True
+
+Ludwig van Beethoven was deaf. 
+True
+
+Freddie Mercury was the lead vocalist of the band Queen. 
+True
+
+The drums are classified as a melodic instrument. 
+False
+
+Johann Sebastian Bach composed "The Four Seasons." 
+False
+
+Taylor Swift's debut album is titled "Fearless." 
+False
+
+Hip-hop originated in the 1980s in New York City. 
+True
+
+"Bohemian Rhapsody" is a song by Led Zeppelin. 
+False
+
+The violin is played with a bow. 
+True
+
+Adele's album "21" won the Grammy for Album of the Year. 
+True
+
+The flute is a member of the woodwind instrument family. 
+True
+
+Queen's song "We Will Rock You" was released in 1980. 
+False
+
+Metallica is a heavy metal band. 
+True
+
+"La La Land" won the Academy Award for Best Original Song. 
+True
+
+The tambourine is a percussion instrument. 
+True

@@ -1,0 +1,89 @@
+The cheetah is the fastest land animal
+True
+
+Elephants are the largest living land animals
+True
+
+Penguins can fly
+False
+
+Sharks are mammals
+False
+
+The giraffe is the tallest living animal on Earth
+True
+
+Bats are the only mammals that can fly
+True
+
+Dolphins are fish
+False
+
+Kangaroos are native to Australia
+True
+
+All snakes are venomous
+False
+
+The koala is a bear
+False
+
+Bees communicate by dancing
+True
+
+Ostriches can fly
+False
+
+Tigers are the largest members of the cat family
+True
+
+Gorillas are herbivores
+False
+
+Penguins live in the Arctic
+False
+
+Hummingbirds are the smallest birds in the world
+True
+
+Crocodiles are reptiles
+True
+
+Whales are the largest animals on Earth
+True
+
+Dogs belong to the feline family
+False
+
+The peacock is the national bird of India
+True
+
+All spiders are insects
+False
+
+Snails are insects
+False
+
+The zebra is a type of horse
+True
+
+Bats use echolocation to navigate and find prey
+True
+
+The blue whale is the largest animal that has ever existed
+True
+
+Beavers build dams using wood and mud
+True
+
+Owls are nocturnal birds
+True
+
+Rabbits are rodents
+False
+
+The chameleon can change its color to blend in with its surroundings
+True
+
+Penguins have wings but cannot fly
+True

@@ -1,0 +1,89 @@
+"Riverdale" is based on characters from Archie Comics. 
+True
+
+"Stranger Things" is set in the 1990s. 
+False
+
+"The Vampire Diaries" is set in a small town called Mystic Falls. 
+True
+
+"Pretty Little Liars" is based on a book series by Sara Shepard. 
+True
+
+"13 Reasons Why" revolves around a student named Clay Jensen. 
+True
+
+"The Chilling Adventures of Sabrina" is a spin-off of "Riverdale." 
+True
+
+"Teen Wolf" features a high school student who transforms into a werewolf. 
+True
+
+"Glee" follows a group of high school students involved in a show choir. 
+True
+
+"Skam" is a Norwegian series that explores the lives of teenagers. 
+True
+
+"The End of the F***ing World" is a dark comedy-drama series. 
+True
+
+"Euphoria" explores the lives of high school students dealing with various issues. 
+True
+
+"Gentleman Jack" is based on the life of 19th-century lesbian landowner Anne Lister. 
+True
+
+"Outer Banks" is a teen drama series set in a coastal town. 
+True
+
+"Never Have I Ever" follows an Indian-American teenager navigating high school. 
+True
+
+"Sex Education" revolves around a socially awkward teenager and his sex therapist mother. 
+True
+
+"On My Block" explores the lives of a group of friends in a Los Angeles neighborhood. 
+True
+
+"Elite" is a Spanish series set in an exclusive private school. 
+True
+
+"Outer Banks" is based on a group of working-class teenagers on a treasure hunt. 
+True
+
+"Friends" is set in the city of Los Angeles. 
+False
+
+"The Big Bang Theory" centers around a group of physicists. 
+True
+
+"Game of Thrones" is based on a series of books by J.R.R. Tolkien. 
+False
+
+"Breaking Bad" follows the story of a high school chemistry teacher turned drug lord. 
+True
+
+"The Walking Dead" is a series about a group of survivors in a world overrun by vampires. 
+False
+
+"Grey's Anatomy" takes place in a hospital. 
+True
+
+"The Crown" depicts the life and reign of Queen Victoria. 
+False
+
+"Sherlock" is set in modern-day London. 
+True
+
+"Mindhunter" explores the early days of criminal profiling at the FBI. 
+True
+
+"The Office" is set in a law firm. 
+False
+
+"Stranger Things" is an anthology series with each season focusing on a different story. 
+False
+
+"The Simpsons" is the longest-running animated series in American television history. 
+True
